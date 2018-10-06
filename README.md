@@ -3,9 +3,11 @@ A python script that scrapes the Wayne State class schedule to provide an alert 
 
 Currently has the lab I wanted to get into in Fall 2018 hard coded. However, it should work for other courses.
 
-Dependencies:
+## Dependencies:
 
-All should be available using pip 18.0 and python 3.7
+All should be available using pip 18.0
+
+Python 3.7
 
 beautifulsoup4 4.6.1
 
@@ -13,6 +15,6 @@ requests 2.19.1
 
 urllib3 1.23
 
-To run:
+## To run:
 Make sure you have all the dependencies.
 Clone the repository and run SELabWebScraping.py under your favorite version of python 3.7 or later.
