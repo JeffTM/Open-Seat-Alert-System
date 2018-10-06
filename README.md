@@ -1,7 +1,7 @@
 # Open-Seat-Alert-System
-A python script that scrapes the Wayne State class schedule to provide an alert when there is an open seat in a certain class
+A python script that scrapes the Wayne State class schedule to provide an alert when there is an open seat in a certain class.
 
-Currently has the lab I wanted to get into in Fall 2018 hard coded. Should work for other courses though.
+Currently has the lab I wanted to get into in Fall 2018 hard coded. However, it should work for other courses.
 
 Dependencies:
 
